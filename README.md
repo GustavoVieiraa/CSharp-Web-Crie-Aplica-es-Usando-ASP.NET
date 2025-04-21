@@ -4,8 +4,8 @@
 </div>
 
 <p align="right">
-  <img loading="lazy" src="https://img.shields.io/badge/CARGA_HORARIA_TOTAL-8_HORAS-blue?style=for-the-badge"/>
-  <img loading="lazy" src="http://img.shields.io/static/v1?label=CURSOS%20REALIZADOS:&message=1&color=GREEN&style=for-the-badge"/>
+  <img loading="lazy" src="https://img.shields.io/badge/CARGA_HORARIA_TOTAL-16_HORAS-blue?style=for-the-badge"/>
+  <img loading="lazy" src="http://img.shields.io/static/v1?label=CURSOS%20REALIZADOS:&message=2&color=GREEN&style=for-the-badge"/>
 </p>
 
 <!-- Tabela única para manter tamanho uniforme -->
