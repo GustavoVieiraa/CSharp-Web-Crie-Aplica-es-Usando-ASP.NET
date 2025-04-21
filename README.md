@@ -18,7 +18,7 @@
     </td>
     <td style="text-align: center;">
       <h3>
-        <a href="https://github.com/GustavoVieiraa/Next.js-conheca-o-framework-React">
+        <a href="https://github.com/GustavoVieiraa/.NET-Persistindo-Dados-Com-Entity-Framework-Core">
           .NET: persistindo dados com Entity Framework Core ✅
         </a>
       </h3>
