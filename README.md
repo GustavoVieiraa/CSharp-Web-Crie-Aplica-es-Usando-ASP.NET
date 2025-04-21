@@ -22,7 +22,7 @@
           .NET: persistindo dados com Entity Framework Core ✅
         </a>
       </h3>
-      <a href="https://github.com/GustavoVieiraa/.NET-Persistindo-Dados-Com-Entity-Framework-Core">
+      <a href="https://cursos.alura.com.br/certificate/gustavo-vieira17/dot-net-persistindo-dados-entity-framework-core">
         Ver Certificado
       </a>
     </td>
