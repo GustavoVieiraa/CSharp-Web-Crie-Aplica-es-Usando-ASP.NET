@@ -29,3 +29,24 @@
   </tr>
 </table>
 
+<!-- Tabela única para manter tamanho uniforme -->
+<table align="center" style="width: 80%; table-layout: fixed; border-collapse: separate; border-spacing: 15px 10px;">
+  <tr align="center">
+    <td style="width: 150px; text-align: center;">
+      <a href="https://github.com/GustavoVieiraa/.NET-criando-uma-API-Web-com-ASP.NET-Core">
+        <img loading="lazy" width="128px" src="https://www.alura.com.br/assets/api/cursos/dotnet-criando-api-web-asp-net-core.svg" />
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <h3>
+        <a href="https://github.com/GustavoVieiraa/.NET-criando-uma-API-Web-com-ASP.NET-Core">
+          .NET: criando uma API Web com ASP.NET Core ✅
+        </a>
+      </h3>
+      <a href="https://cursos.alura.com.br/certificate/gustavo-vieira17/dotnet-criando-api-web-asp-net-core">
+        Ver Certificado
+      </a>
+    </td>
+  </tr>
+</table>
+
