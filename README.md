@@ -4,8 +4,8 @@
 </div>
 
 <p align="right">
-  <img loading="lazy" src="https://img.shields.io/badge/CARGA_HORARIA_TOTAL-16_HORAS-blue?style=for-the-badge"/>
-  <img loading="lazy" src="http://img.shields.io/static/v1?label=CURSOS%20REALIZADOS:&message=2&color=GREEN&style=for-the-badge"/>
+  <img loading="lazy" src="https://img.shields.io/badge/CARGA_HORARIA_TOTAL-24_HORAS-blue?style=for-the-badge"/>
+  <img loading="lazy" src="http://img.shields.io/static/v1?label=CURSOS%20REALIZADOS:&message=3&color=GREEN&style=for-the-badge"/>
 </p>
 
 <!-- Tabela única para manter tamanho uniforme -->
@@ -33,6 +33,27 @@
 <table align="center" style="width: 80%; table-layout: fixed; border-collapse: separate; border-spacing: 15px 10px;">
   <tr align="center">
     <td style="width: 150px; text-align: center;">
+      <a href="https://github.com/GustavoVieiraa/Testes-em-.NET-criando-testes-de-unidade-com-xUnit">
+        <img loading="lazy" width="128px" src="https://www.alura.com.br/assets/api/cursos/testes-dot-net-criando-testes-unidade-xunit.svg" />
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <h3>
+        <a href="https://github.com/GustavoVieiraa/Testes-em-.NET-criando-testes-de-unidade-com-xUnit">
+          Testes em .NET: criando testes de unidade com xUnit ✅
+        </a>
+      </h3>
+      <a href="https://cursos.alura.com.br/certificate/gustavo-vieira17/testes-dot-net-criando-testes-unidade-xunit">
+        Ver Certificado
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Tabela única para manter tamanho uniforme -->
+<table align="center" style="width: 80%; table-layout: fixed; border-collapse: separate; border-spacing: 15px 10px;">
+  <tr align="center">
+    <td style="width: 150px; text-align: center;">
       <a href="https://github.com/GustavoVieiraa/.NET-criando-uma-API-Web-com-ASP.NET-Core">
         <img loading="lazy" width="128px" src="https://www.alura.com.br/assets/api/cursos/dotnet-criando-api-web-asp-net-core.svg" />
       </a>
@@ -49,4 +70,5 @@
     </td>
   </tr>
 </table>
+
 
