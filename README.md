@@ -4,7 +4,7 @@
 </div>
 
 <p align="right">
-  <img loading="lazy" src="https://img.shields.io/badge/CARGA_HORARIA_TOTAL-40_HORAS-blue?style=for-the-badge"/>
+  <img loading="lazy" src="https://img.shields.io/badge/CARGA_HORARIA_TOTAL-42_HORAS-blue?style=for-the-badge"/>
   <img loading="lazy" src="http://img.shields.io/static/v1?label=CURSOS%20REALIZADOS:&message=5&color=GREEN&style=for-the-badge"/>
 </p>
 
