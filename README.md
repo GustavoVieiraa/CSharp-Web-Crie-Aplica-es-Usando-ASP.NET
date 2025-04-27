@@ -4,9 +4,30 @@
 </div>
 
 <p align="right">
-  <img loading="lazy" src="https://img.shields.io/badge/CARGA_HORARIA_TOTAL-42_HORAS-blue?style=for-the-badge"/>
-  <img loading="lazy" src="http://img.shields.io/static/v1?label=CURSOS%20REALIZADOS:&message=5&color=GREEN&style=for-the-badge"/>
+  <img loading="lazy" src="https://img.shields.io/badge/CARGA_HORARIA_TOTAL-52_HORAS-blue?style=for-the-badge"/>
+  <img loading="lazy" src="http://img.shields.io/static/v1?label=CURSOS%20REALIZADOS:&message=6&color=GREEN&style=for-the-badge"/>
 </p>
+
+<!-- Tabela única para manter tamanho uniforme -->
+<table align="center" style="width: 80%; table-layout: fixed; border-collapse: separate; border-spacing: 15px 10px;">
+  <tr align="center">
+    <td style="width: 150px; text-align: center;">
+      <a href="https://github.com/GustavoVieiraa/Arquitetura-.NET-descomplicando-a-Clean-Architecture">
+        <img loading="lazy" width="128px" src="https://www.alura.com.br/assets/api/cursos/arquitetura-dotnet-descomplicando-clean-architecture.svg" />
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <h3>
+        <a href="https://github.com/GustavoVieiraa/Arquitetura-.NET-descomplicando-a-Clean-Architecture">
+          Arquitetura .NET: descomplicando a Clean Architecture ✅
+        </a>
+      </h3>
+      <a href="https://cursos.alura.com.br/certificate/gustavo-vieira17/arquitetura-dotnet-descomplicando-clean-architecture">
+        Ver Certificado
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- Tabela única para manter tamanho uniforme -->
 <table align="center" style="width: 80%; table-layout: fixed; border-collapse: separate; border-spacing: 15px 10px;">
