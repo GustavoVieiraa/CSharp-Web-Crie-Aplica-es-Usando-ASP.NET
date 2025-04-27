@@ -33,27 +33,6 @@
 <table align="center" style="width: 80%; table-layout: fixed; border-collapse: separate; border-spacing: 15px 10px;">
   <tr align="center">
     <td style="width: 150px; text-align: center;">
-      <a href="https://github.com/GustavoVieiraa/.NET-Persistindo-Dados-Com-Entity-Framework-Core">
-        <img loading="lazy" width="128px" src="https://www.alura.com.br/assets/api/cursos/dot-net-persistindo-dados-entity-framework-core.svg" />
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <h3>
-        <a href="https://github.com/GustavoVieiraa/.NET-Persistindo-Dados-Com-Entity-Framework-Core">
-          .NET: persistindo dados com Entity Framework Core ✅
-        </a>
-      </h3>
-      <a href="https://cursos.alura.com.br/certificate/gustavo-vieira17/dot-net-persistindo-dados-entity-framework-core">
-        Ver Certificado
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- Tabela única para manter tamanho uniforme -->
-<table align="center" style="width: 80%; table-layout: fixed; border-collapse: separate; border-spacing: 15px 10px;">
-  <tr align="center">
-    <td style="width: 150px; text-align: center;">
       <a href="https://github.com/GustavoVieiraa/Testes-em-.NET-criando-testes-de-unidade-com-xUnit">
         <img loading="lazy" width="128px" src="https://www.alura.com.br/assets/api/cursos/testes-dot-net-criando-testes-unidade-xunit.svg" />
       </a>
@@ -65,6 +44,27 @@
         </a>
       </h3>
       <a href="https://cursos.alura.com.br/certificate/gustavo-vieira17/testes-dot-net-criando-testes-unidade-xunit">
+        Ver Certificado
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Tabela única para manter tamanho uniforme -->
+<table align="center" style="width: 80%; table-layout: fixed; border-collapse: separate; border-spacing: 15px 10px;">
+  <tr align="center">
+    <td style="width: 150px; text-align: center;">
+      <a href="https://github.com/GustavoVieiraa/.NET-Persistindo-Dados-Com-Entity-Framework-Core">
+        <img loading="lazy" width="128px" src="https://www.alura.com.br/assets/api/cursos/dot-net-persistindo-dados-entity-framework-core.svg" />
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <h3>
+        <a href="https://github.com/GustavoVieiraa/.NET-Persistindo-Dados-Com-Entity-Framework-Core">
+          .NET: persistindo dados com Entity Framework Core ✅
+        </a>
+      </h3>
+      <a href="https://cursos.alura.com.br/certificate/gustavo-vieira17/dot-net-persistindo-dados-entity-framework-core">
         Ver Certificado
       </a>
     </td>
